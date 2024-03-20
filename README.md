@@ -24,4 +24,3 @@ I'm always open to discussing new projects, innovative ideas, or opportunities t
 
 Thank you for visiting my GitHub profile! Don't forget to star my repositories if you find them interesting or useful.
 
-```
